@@ -5,7 +5,7 @@ Jolla - The Other Half 3D model (just a proto)
 
 Printed with [Tinkerine Studio Litto](http://www.tinkerines.com/store/3d-printers/litto/) 3D printer.
 
-Tested with these settings (PLA, close to perfect fit:
+Tested with these settings (PLA, close to perfect fit):
 
 - layer resolution 0.2 mm
 - first layer temp: 210 Celsius
