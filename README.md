@@ -1,7 +1,9 @@
 TheOtherHalf
 ============
 
-Jolla - The Other Half 3D model (just a proto)
+Jolla - The Other Half 3D model (just a proto, not official)
+
+NOTE: The models are optimized for my printer. Therefore they may not fit perfectly if printed with other printers. This includes Shapeways and other 3D printing services.
 
 Printed with [Tinkerine Studio Litto](http://www.tinkerines.com/store/3d-printers/litto/) 3D printer.
 
