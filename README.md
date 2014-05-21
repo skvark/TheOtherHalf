@@ -5,6 +5,8 @@ Jolla - The Other Half 3D model (just a proto, not official)
 
 NOTE: The models are optimized for my printer. Therefore they may not fit perfectly if printed with other printers. This includes Shapeways and other 3D printing services.
 
+NOTE2: I have now tested the model with ABS and another printer too. Scale the models about 1 % up before printing if ABS is used because it seems to shrink more than PLA.
+
 Printed with [Tinkerine Studio Litto](http://www.tinkerines.com/store/3d-printers/litto/) 3D printer.
 
 Tested with these settings (PLA, close to perfect fit):
